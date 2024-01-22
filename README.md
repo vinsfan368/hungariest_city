@@ -1,2 +1,3 @@
 # hungariest_city
-Get the largest cities in Hungary in 1910.
+
+Get a random populous city of Hungary and its population as of 1910.
